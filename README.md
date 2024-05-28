@@ -1,9 +1,11 @@
 # Code-soft
 This is internship projects
+
 Task-1 
 
 
-Landing page 
+Landing page :
+
 A landing page is an ideal web development project .it requries knowledge of HTML and CSS through this project .pay attention to alignments ,padding,color palette,boxes and other elements.
 
 
@@ -19,7 +21,8 @@ A landing page is an ideal web development project .it requries knowledge of HTM
 Task-2
 
 
-Portfolio
+Portfolio:
+
 Language used :Html,Css and Js
 This project was portfolio for personal details website they have invlove section
 Header section:Name logo at the top,About section: insert an image of yourself.
@@ -38,7 +41,8 @@ Task-3
 
 
 
-Calculater
+Calculater:
+
 To create a basic caculater using css,html and javascript,you'll need to implement an interactive interface with buttons for addition ,subraction ,multiplication and division opertions.
 
 
@@ -54,6 +58,7 @@ Task-4
 
 
 
-Tribute page
+Tribute page:
+
 To create a tribute page was using html,css can create a webpage dedicated to someone you admire.
 
